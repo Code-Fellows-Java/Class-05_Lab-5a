@@ -87,6 +87,7 @@ function sumArray(sumArr) { //eslint-disable-line
     let retString = sumArr.join(',') + ' was passed in as an array of numbers, and ' + arraySum + ' is their sum.';
     return [arraySum, retString];
 
+
 }
 
 // Here is the test for sumArray(); uncomment it to run it
